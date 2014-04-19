@@ -1,0 +1,45 @@
+[submodule "iGeekCommon"]
+	path = iGeekCommon
+	url = /home/src/git/indelible/iGeekCommon
+[submodule "iGeekCommon-Linux"]
+	path = iGeekCommon-Linux
+	url = /home/src/git/indelible/iGeekCommon-Linux
+[submodule "IndelibleFS"]
+	path = IndelibleFS
+	url = /home/src/git/indelible/IndelibleFS
+[submodule "IndelibleFS-Linux"]
+	path = IndelibleFS-Linux
+	url = /home/src/git/indelible/IndelibleFS-Linux
+[submodule "IndelibleFSClient"]
+	path = IndelibleFSClient
+	url = /home/src/git/indelible/IndelibleFSClient
+[submodule "IndelibleFSClient-Linux"]
+	path = IndelibleFSClient-Linux
+	url = /home/src/git/indelible/IndelibleFSClient-Linux
+[submodule "IndelibleServerCore"]
+	path = IndelibleServerCore
+	url = /home/src/git/indelible/IndelibleServerCore
+[submodule "IndelibleServerCore-Linux"]
+	path = IndelibleServerCore-Linux
+	url = /home/src/git/indelible/IndelibleServerCore-Linux
+[submodule "IndelibleVirtualSAN"]
+	path = IndelibleVirtualSAN
+	url = /home/src/git/indelible/IndelibleVirtualSAN
+[submodule "IndelibleVirtualSAN-Linux"]
+	path = IndelibleVirtualSAN-Linux
+	url = /home/src/git/indelible/IndelibleVirtualSAN-Linux
+[submodule "IndelibleWebAccess"]
+	path = IndelibleWebAccess
+	url = /home/src/git/indelible/IndelibleWebAccess
+[submodule "IndelibleWebAccess-Linux"]
+	path = IndelibleWebAccess-Linux
+	url = /home/src/git/indelible/IndelibleWebAccess-Linux
+[submodule "JDBM"]
+	path = JDBM
+	url = /home/src/git/indelible/JDBM
+[submodule "jSCSI"]
+	path = jSCSI
+	url = /home/src/git/indelible/jSCSI
+[submodule "Luwak"]
+	path = Luwak
+	url = /home/src/git/indelible/Luwak
